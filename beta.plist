@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://sky.betasky.fun/%5BBETA%5D%20Sky%E5%85%89%C2%B7%E9%81%87_0.18.0%20%28194256%29.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>[Beta]Guangyu Test Suit Official Community</string>
+                <key>bundle-version</key>
+                <string>0.18.0(194256)</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>[Beta]Sky</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
